@@ -1,0 +1,1 @@
+Sobre o projeto solicitado, foi desenvolvido um sistema de filmes no qual pode fazer pesquisa/adicionar/excluir filmes. Tecnicamente falando foi  feito através da ide eclipse e no projeto desenvolvido 4 telas e uma classe de conexão com o banco de dados,que foi utilizado PostgreSQL 12 e nele feito algumas tabelas para ser adicionado os dados como nome/gênero,usuário/senha e etc.
